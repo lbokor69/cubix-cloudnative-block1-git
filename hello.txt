@@ -1,1 +1,2 @@
 Hello, here we will play a bit with Git!
+ezt mos modiosítom
